@@ -1,0 +1,2442 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#"
+     xml:base="http://ontology.cybershare.utep.edu/TrafficCrashes.owl"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://ontology.cybershare.utep.edu/TrafficCrashes.owl"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash -->
+
+    <owl:Class rdf:about="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14140512 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14140512">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14140575 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14140575">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14140737 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14140737">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14141015 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14141015">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14141039 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14141039">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14141070 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14141070">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14141097 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14141097">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14141356 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14141356">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14141443 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14141443">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14141882 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14141882">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14141884 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14141884">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14141907 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14141907">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14141934 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14141934">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142038 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142038">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142053 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142053">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142065 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142065">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142067 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142067">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142085 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142085">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142108 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142108">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142113 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142113">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142129 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142129">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142131 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142131">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142139 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142139">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142141 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142141">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142157 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142157">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142161 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142161">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142163 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142163">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142172 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142172">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142178 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142178">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142182 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142182">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142225 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142225">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142226 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142226">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142227 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142227">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142240 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142240">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142257 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142257">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142258 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142258">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142259 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142259">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142271 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142271">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142314 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142314">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142318 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142318">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142327 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142327">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142356 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142356">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142372 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142372">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142390 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142390">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142401 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142401">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142402 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142402">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142408 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142408">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142411 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142411">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142412 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142412">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142417 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142417">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142420 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142420">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142429 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142429">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142433 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142433">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142482 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142482">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142483 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142483">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142484 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142484">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142488 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142488">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142490 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142490">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142493 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142493">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142538 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142538">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142539 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142539">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142544 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142544">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142561 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142561">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142562 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142562">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142572 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142572">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142595 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142595">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142615 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142615">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142617 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142617">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142618 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142618">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142619 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142619">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142621 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142621">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142627 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142627">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142633 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142633">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142634 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142634">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142635 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142635">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142636 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142636">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142642 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142642">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142646 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142646">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142653 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142653">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142654 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142654">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142655 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142655">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142658 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142658">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142660 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142660">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142661 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142661">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142666 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142666">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142667 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142667">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142669 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142669">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142670 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142670">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142671 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142671">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142673 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142673">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142698 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142698">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142706 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142706">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142707 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142707">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142709 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142709">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142712 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142712">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142713 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142713">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142716 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142716">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142717 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142717">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142718 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142718">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142719 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142719">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142721 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142721">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142723 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142723">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142725 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142725">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142726 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142726">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142728 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142728">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142730 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142730">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142749 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142749">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142751 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142751">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142753 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142753">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142755 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142755">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142766 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142766">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142773 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142773">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142777 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142777">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142781 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142781">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142786 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142786">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142788 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142788">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142801 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142801">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142802 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142802">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142804 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142804">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142806 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142806">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142809 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142809">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142813 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142813">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142817 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142817">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142819 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142819">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142826 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142826">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142840 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142840">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142850 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142850">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142858 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142858">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142864 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142864">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142870 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142870">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142873 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142873">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142877 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142877">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142878 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142878">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142880 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142880">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142881 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142881">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142889 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142889">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142891 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142891">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142897 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142897">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142898 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142898">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142904 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142904">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142910 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142910">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142912 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142912">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142916 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142916">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142917 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142917">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142918 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142918">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142919 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142919">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142922 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142922">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142924 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142924">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142925 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142925">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142926 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142926">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142928 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142928">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142929 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142929">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142930 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142930">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142931 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142931">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142933 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142933">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142939 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142939">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142943 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142943">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142944 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142944">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142945 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142945">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142950 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142950">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142952 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142952">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142958 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142958">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142959 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142959">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142962 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142962">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142963 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142963">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142964 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142964">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142966 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142966">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142967 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142967">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142970 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142970">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142971 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142971">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142972 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142972">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142973 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142973">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142974 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142974">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142975 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142975">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142976 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142976">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142977 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142977">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142979 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142979">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142981 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142981">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142983 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142983">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142987 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142987">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142989 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142989">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142990 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142990">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142991 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142991">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142993 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142993">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142994 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142994">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14142996 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14142996">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143002 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143002">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143003 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143003">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143004 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143004">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143005 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143005">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143007 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143007">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143009 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143009">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143015 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143015">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143016 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143016">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143017 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143017">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143018 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143018">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143019 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143019">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143020 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143020">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143028 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143028">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143029 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143029">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143031 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143031">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143032 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143032">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143033 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143033">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143039 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143039">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143041 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143041">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143044 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143044">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143045 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143045">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143051 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143051">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143062 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143062">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143063 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143063">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143064 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143064">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143066 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143066">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143067 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143067">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143068 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143068">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143069 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143069">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143070 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143070">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143071 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143071">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143072 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143072">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143073 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143073">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143074 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143074">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143078 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143078">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143083 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143083">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143086 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143086">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143090 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143090">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143104 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143104">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143106 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143106">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143108 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143108">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143113 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143113">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143224 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143224">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143225 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143225">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143226 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143226">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143228 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143228">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143229 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143229">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143273 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143273">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143282 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143282">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143285 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143285">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143287 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143287">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143290 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143290">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143291 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143291">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143293 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143293">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143299 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143299">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143302 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143302">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143309 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143309">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143310 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143310">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143312 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143312">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143318 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143318">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143321 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143321">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143323 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143323">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143325 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143325">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143328 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143328">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143329 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143329">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143331 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143331">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143335 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143335">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143336 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143336">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143341 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143341">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143343 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143343">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143350 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143350">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143358 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143358">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143360 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143360">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143362 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143362">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143364 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143364">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143365 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143365">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143372 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143372">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143375 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143375">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143376 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143376">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143390 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143390">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143399 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143399">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143406 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143406">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143407 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143407">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143414 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143414">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143415 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143415">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143418 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143418">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143424 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143424">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143425 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143425">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143428 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143428">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143432 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143432">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143435 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143435">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143436 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143436">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143437 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143437">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143439 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143439">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143444 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143444">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143449 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143449">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143451 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143451">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143468 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143468">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143470 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143470">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143498 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143498">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143499 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143499">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143502 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143502">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143511 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143511">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143513 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143513">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143515 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143515">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143517 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143517">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143518 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143518">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143519 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143519">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143524 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143524">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143525 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143525">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143531 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143531">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143534 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143534">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143536 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143536">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://ontology.cybershare.utep.edu/PENN_Crash_14143537 -->
+
+    <owl:NamedIndividual rdf:about="http://ontology.cybershare.utep.edu/PENN_Crash_14143537">
+        <rdf:type rdf:resource="http://ontology.cybershare.utep.edu/TrafficCrashes.owl#TrafficCrash"/>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.5.4) http://owlapi.sourceforge.net -->
+
